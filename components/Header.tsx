@@ -4,7 +4,7 @@ import Image from "next/image"
 import facebook_logo from "@/assets/images/fb_logo.png"
 import ig_logo from "@/assets/images/Instagram_logo.png"
 import gmail_logo from "@/assets/images/gmail_logo.png"
-import banner from "@/assets/images/banner.png"
+import banner from "@/assets/images/bg-banner.png"
 import logo from "@/assets/images/chefjeplogo.jpg"
 import { StaticImport } from "next/dist/shared/lib/get-img-props"
 
