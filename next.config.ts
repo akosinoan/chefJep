@@ -1,7 +1,12 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  assetPrefix: '/chefjep/',
+  basePath: '/chefjep',
+  images: {
+    loader: 'akamai',
+    path: '',
+  },/* config options here */
 };
 
 export default nextConfig;
